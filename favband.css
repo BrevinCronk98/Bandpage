@@ -9,6 +9,8 @@ body {
 }
 .members {
     float: left;
+    border: 5px solid blue;
+    padding: 5px;
 }
 .members h2 {
     color: darkmagenta;
@@ -20,6 +22,8 @@ body {
 
 .songs {
     float: right;
+    border: 5px solid blue;
+    padding: 5px;
 }
 
 .songs h2 {
